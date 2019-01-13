@@ -1,0 +1,2 @@
+print('Hello, Dasha!')
+print('Dasha, ty klass!')
